@@ -1,7 +1,5 @@
 # Dice-probability-simulator-
 
-# Dice Probability Simulator
-
 ## Overview
 A Python project that simulates dice rolls and compares theoretical and experimental probabilities.
 
